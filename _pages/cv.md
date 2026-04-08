@@ -12,8 +12,7 @@ author_profile: true
 
 **PhD in Psychology** (2022-2025)
 Université Toulouse Jean Jaurès, France
-Thesis: *Social Camouflaging in Autistic Adults: Predictors and Implications 
-in Autistic Burnout*
+Thesis: *Social Camouflaging in Autistic Adults: Predictors and Implications in Autistic Burnout*
 Supervisor: Pr. Jeanne Kruck
 
 **Master's degree in Psychology** - Autism and Neurodevelopmental Disorders (2020-2022)
