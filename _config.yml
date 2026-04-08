@@ -8,15 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Capucine Rebours"
 title_separator          : "-"
 name                     : &name "Capucine Rebours"
-description              : &description "Aspiring Postdoctoral Fellow"   # Update this with a general description of your site, this is the default if not overridden by a page
+description: &description "PhD in Psychology | Autism, Camouflaging & Burnout Research"
 url                      : https://capucinerebours.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "capucinerebours/capucinerebours.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Capucine Rebours, PhD"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Teaching and Research Associate | Postdoctoral Applicant. PhD in Psychology. Autism, camouflaging & burnout research."
   location         : "Toulouse, France"
   employer         : "Université Toulouse Jean Jaurès"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "Capucine Rebours"
+  linkedin         : "capucine-rebours-7696931b7"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
